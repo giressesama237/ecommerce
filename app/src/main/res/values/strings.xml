@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Cart</string>
+    <string name="title_notifications">Account</string>
+    <string name="image_description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus aliquam beatae consequatur delectus excepturi, illo laboriosam magnam neque, perferendis quaerat qui, reprehenderit sed voluptates voluptatum? Aspernatur eius expedita vel.</string>
+</resources>
